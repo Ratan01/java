@@ -1,4 +1,4 @@
-package d06_04;
+
 import java.util.*;
 public class Biggest {
 	public static void main(String[] args) {
