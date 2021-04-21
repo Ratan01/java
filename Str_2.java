@@ -1,4 +1,4 @@
-package d01_04;
+
 import java.util.*;
 public class Str_2 {
 	public static void main(String[] args) {
